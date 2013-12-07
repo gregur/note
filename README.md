@@ -1,0 +1,4 @@
+note
+====
+
+saves a note
